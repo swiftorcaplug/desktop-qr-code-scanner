@@ -1,0 +1,14 @@
+# QR Code Scanner for PC
+
+> Free desktop QR code scanner and barcode reader for Windows 10 and 11 (64-bit). It reads codes from the screen, image files, the clipboard, folders of images and cameras. Processing is local and it works offline. Open source under the Apache 2.0 license.
+
+## Product
+
+- [Home](https://swiftorcaplug.github.io/desktop-qr-code-scanner/): Features, supported barcode types and FAQ
+- [Download](https://sourceforge.net/projects/qr-code-scanner-pc/files/latest/download): Download from SourceForge
+- [Source code](https://github.com/swiftorcaplug/desktop-qr-code-scanner): GitHub repository
+
+## Guides
+
+- [How to scan a QR code from an image on PC](https://swiftorcaplug.github.io/desktop-qr-code-scanner/scan-qr-code-from-image/): Image files, screenshots, copied pictures and folders
+- [How to scan a QR code on a PC or laptop](https://swiftorcaplug.github.io/desktop-qr-code-scanner/scan-qr-code-on-pc/): Screen capture, images, webcam and the Windows Camera app
