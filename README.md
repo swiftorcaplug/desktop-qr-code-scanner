@@ -10,7 +10,7 @@
 <a href="https://sourceforge.net/projects/qr-code-scanner-pc/files/latest/download"><img src="https://img.shields.io/badge/Download-SourceForge-1565D8?style=flat-square" alt="Download on SourceForge"></a>
 <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-14213D?style=flat-square" alt="Windows 10 and 11">
 <img src="https://img.shields.io/badge/Portable-no%20installation-14213D?style=flat-square" alt="Portable, no installation">
-<a href="LICENSE.txt"><img src="https://img.shields.io/badge/License-Apache%202.0-14213D?style=flat-square" alt="Apache 2.0 license"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-14213D?style=flat-square" alt="Apache 2.0 license"></a>
 </p>
 
 <p>
@@ -112,10 +112,10 @@ Yes. It runs on any Windows 10 or 11 64-bit laptop or desktop and can use the bu
 
 No. It is a Windows app.
 
-## Build from source
+## Built with
 
-The app is built with WinUI 3, the Windows App SDK, .NET 9 and [ZXing.Net](https://github.com/micjahn/ZXing.Net). To build it yourself, clone this repository and open `barcodrod.io.sln` in Visual Studio.
+WinUI 3, the Windows App SDK, .NET 9 and [ZXing.Net](https://github.com/micjahn/ZXing.Net).
 
 ## License
 
-Released under the [Apache License 2.0](LICENSE.txt).
+Released under the [Apache License 2.0](LICENSE).
